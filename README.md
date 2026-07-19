@@ -3,9 +3,13 @@
 AI/ML Engineer and Full-Stack Developer with hands-on experience in Computer Vision, Deep Learning, Web Development, and Data Structures & Algorithms. Passionate about building intelligent applications using AI, developing scalable web solutions, and solving real-world problems through technology.
 
 🤖 AI Engineer Intern at 366Pi Technologies
+
 🎓 B.Tech in Computer Science & Engineering (AI/ML)
+
 💻 Full-Stack Developer | Java Programmer
+
 🏆 Smart India Hackathon 2025 Finalist
+
 📚 Solved 400+ DSA problems on LeetCode & GeeksforGeeks
 
 ---
@@ -15,8 +19,7 @@ AI/ML Engineer and Full-Stack Developer with hands-on experience in Computer Vis
 | Company                                | Role               | Mode    | Duration            |
 | -------------------------------------- | ------------------ | ------- | ------------------- |
 | 366Pi Technologies                     | AI Engineer Intern | On-site | Jul 2025 – Aug 2025 |
-| NubeTree                               | Salesforce         | Remote  | June 2025 - Aug 2025|
-                                         | Developer Intern  |     
+| NubeTree                               | Salesforce Developer Intern| Remote  | June 2025 - Aug 2025|    
 | Edunet Foundation (Microsoft Azure AI) | AI Intern          | Virtual | May 2025 – Jun 2025 |
 
 ---
@@ -146,7 +149,7 @@ Developed the frontend of a labour hiring platform.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: *(Add your LinkedIn profile)*
+💼 LinkedIn: https://www.linkedin.com/in/sharmin-iffat-98a53b255
 
 💻 LeetCode: https://leetcode.com/u/sharmin_iffat/
 
