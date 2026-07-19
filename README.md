@@ -29,7 +29,8 @@ AI/ML Engineer and Full-Stack Developer with hands-on experience in Computer Vis
 | Institution                     | Qualification        | Score      | Duration    |
 | ------------------------------- | -------------------- | ---------- | ----------- |
 | Sarala Birla University, Ranchi | B.Tech CSE (AI & ML) | CGPA: 8.26 | 2022 – 2026 |
-| Loyola Convent School           | Class XII (CBSE)     | 75.4%      | 2020 – 2022 |
+| Loyola Convent School, Ranchi   | Class XII (CBSE)     | 75.4%      | 2018 – 2020 |
+| Munam Public School, Hazaribagh | Class X (CBSE)       | 71.2%      | 2017 - 2018 |
 
 ---
 
@@ -37,7 +38,7 @@ AI/ML Engineer and Full-Stack Developer with hands-on experience in Computer Vis
 
 ### 👨‍💻 Programming Languages
 
-Java • Python • JavaScript • C • SQL
+Java • Python • JavaScript  • SQL
 
 ### 🌐 Web Development
 
@@ -125,7 +126,7 @@ Developed the frontend of a labour hiring platform.
 
 🏅 Smart India Hackathon 2025 Finalist
 
-💻 Solved 400+ DSA Problems on LeetCode & GeeksforGeeks
+💻 Solved 500+ DSA Problems on LeetCode & GeeksforGeeks
 
 🚀 AI Engineer Internship at 366Pi Technologies
 
