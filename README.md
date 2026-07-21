@@ -12,6 +12,8 @@ AI/ML Engineer and Full-Stack Developer with hands-on experience in Computer Vis
 
 📚 Solved 500+ DSA problems on LeetCode & GeeksforGeeks
 
+📚 Solved 100+ SQL problems on LeetCode 
+
 ---
 
 ## 🏢 Experience
