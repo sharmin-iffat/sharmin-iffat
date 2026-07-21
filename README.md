@@ -10,7 +10,7 @@ AI/ML Engineer and Full-Stack Developer with hands-on experience in Computer Vis
 
 🏆 Smart India Hackathon 2025 Finalist
 
-📚 Solved 400+ DSA problems on LeetCode & GeeksforGeeks
+📚 Solved 500+ DSA problems on LeetCode & GeeksforGeeks
 
 ---
 
